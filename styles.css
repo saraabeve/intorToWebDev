@@ -1,0 +1,37 @@
+#webitem{
+    border: 1px solid;
+    box-shadow: 5px 5px 5px 10px rgb(0,0,0,0.5);
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    
+}
+.greenRow{
+    background-color:powderblue;
+}
+.purpleRow{
+    background-color:orchid;
+}
+table{
+ border: 2px solid black;
+ margin-left: auto;
+ margin-right: auto;
+}
+th{
+    border: 2px solid black;
+    font-style: italic;
+    font-weight: 800;
+}
+td{
+    border: 2px solid black;
+}
+body{   
+    background-color: darksalmon;
+    font-style: italic;
+    font-size: medium;
+}
+pinkRow{
+    background-color:pink;
+}
